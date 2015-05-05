@@ -1,2 +1,2 @@
 # nullPointer
-Stackoverflow clone in nodejs
+Stackoverflow clone in OCaml
